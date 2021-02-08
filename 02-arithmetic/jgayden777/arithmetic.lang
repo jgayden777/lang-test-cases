@@ -1,0 +1,12 @@
+#simple test cases
+print 1*1
+print 1/1
+print -3000-400
+print 30-40-70
+print 0/1
+#Trickier cases
+print 3+4+(24/6) #pemdas 
+print(4*5(45/5))+(10*10(10/10))#pemdas inside of each different expression and then getting the answer after adding the two.
+print(4 - 4/(5*5)  -  ((11/11)*(2+10))) # index for this case in particular will be tricky due to amount of spaces
+print(5+6+7)+(10/0) # undefined technically because you cant divide by zero
+print(10/10)*(5-5(30/6))+  12 # pemdas and spaces
